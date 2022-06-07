@@ -1,5 +1,5 @@
 services:
-  honrt3:
+  four4d:
     build: .
     shm_size: 2.6gb
     ports:
